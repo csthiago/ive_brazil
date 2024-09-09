@@ -1,4 +1,4 @@
 # ive_brazil
-Indirect vaccine effectiveness (COVID-19) - Brazil
+example of models used for the paper: Indirect effectiveness of COVID-19 vaccines in the pre-omicron and omicron periods: a nation-wide test-negative case-control study in Brazil
 
-Repository for code deposition after publication
+
